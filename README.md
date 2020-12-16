@@ -25,7 +25,7 @@ Roles separation, each user has his own roles
 Several Social Providers
 Slick Interface
 
-#Documentation
+##Documentation
 
 All of the documentation can be found at the repo's wiki [here](https://github.com/Meganitrospeed/project-react-weight/wiki)
 
