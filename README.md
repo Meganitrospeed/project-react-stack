@@ -27,7 +27,7 @@ Slick Interface
 
 #Documentation
 
-All of the documentation can be found at the repo's wiki at [I'm an inline-style link](https://github.com/Meganitrospeed/project-react-weight/wiki)
+All of the documentation can be found at the repo's wiki [here](https://github.com/Meganitrospeed/project-react-weight/wiki)
 
 ## 📜 License
 
